@@ -31,3 +31,6 @@
 
   rachelpanico@hotmail.com
 
+https://github.com/panicor/noteTaker
+
+https://panicor.github.io/noteTaker/
